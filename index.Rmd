@@ -1,6 +1,8 @@
 ---
 title: "kevin-dumity's website"
-output: html_document
+output: 
+  html_document:
+    theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
@@ -26,9 +28,8 @@ Summarize your trajectory. You could mention what you've done. Like what you've 
 ## Profiles 
 
 * [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-* ...
 * [GitHub](http://github.com/kevin-dumity)
 
 ## Contact
 
-* [youremail@email](mailto:kevin.dumity@hotmail.com)
+* [kevin.dumity@hotmail.com](mailto:kevin.dumity@hotmail.com)
